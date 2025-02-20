@@ -55,13 +55,26 @@ uso do programa:
         Ativar busca recursiva por arquivos.
 ```
 
+O arquivo questions.txt deve ser manipulado da seguinte forma:
+```txt
+//Comentários
+Perguntas comuns
+*Perguntas com respostas longas
+>Pergunta sobre os arquivos à serem examinados (Só é nescessário uma utilização)
+//os simbolos //, * e > são responsáveis pela diferenciação de cada linha do arquivo, não é nescessário espaçar o simbolo do resto da questão.
+```
+
 ## 📷 Prints do projeto:
 
 ![primeira questão, tela de terminal com uma entrada no texto no centro, e uma questão no topo indicando para o usuário que deve escrever suas questões no arquivo questions.txt, com uma listagem de comandos abaixo](images/first_question.png)
 
 ![segunda questão, tela de terminal com uma entrada no texto no centro, e uma questão no topo indicando para o usuário que deve testar o comando com --help, com uma listagem de comandos abaixo](images/second_question.png)
 
-![tela de resultados, tabela com questões à esquerda e suas respostas à direita](images/answer_table.png)
+![terceira questão, tela de terminal com uma entrada no texto no centro, e uma questão no topo perguntando ao usuário sobre um dos arquivos que a aplicação listou, com uma listagem de comandos abaixo](images/file_question.png)
+
+]
+![tela de terminal com os resultados, tabela com questões à esquerda e suas respostas à direita](images/answer_table.png)
+
 
 ![wrong terminal size](images/wrong_size.png)
 
