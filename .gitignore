@@ -25,4 +25,6 @@ go.work.sum
 .env
 
 # output files
-.txt
+*.txt
+*.log
+wizard
