@@ -55,6 +55,10 @@ uso do programa:
         Ativar busca recursiva por arquivos.
 ```
 
+## 📷 Prints do projeto:
+
+
+
 <div align="right">
     <span>Feito com ❤️.</span>
 </div>

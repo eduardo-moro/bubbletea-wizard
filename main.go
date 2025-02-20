@@ -146,7 +146,7 @@ func (m model) View() string {
 			lipgloss.Center,
 			lipgloss.JoinVertical(
 				lipgloss.Center,
-				"Respostas:",
+				"Answers:",
 				m.styles.BubbleTable.Render(m.table.View()),
 				lipgloss.NewStyle().Foreground(lipgloss.Color("8")).Render("ctrl+c: exit | files saved to output.txt!"),
 			),
