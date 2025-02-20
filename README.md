@@ -57,7 +57,13 @@ uso do programa:
 
 ## 📷 Prints do projeto:
 
+![primeira questão, tela de terminal com uma entrada no texto no centro, e uma questão no topo indicando para o usuário que deve escrever suas questões no arquivo questions.txt, com uma listagem de comandos abaixo](images/first_question.png)
 
+![segunda questão, tela de terminal com uma entrada no texto no centro, e uma questão no topo indicando para o usuário que deve testar o comando com --help, com uma listagem de comandos abaixo](images/second_question.png)
+
+![tela de resultados, tabela com questões à esquerda e suas respostas à direita](images/answer_table.png)
+
+![wrong terminal size](images/wrong_size.png)
 
 <div align="right">
     <span>Feito com ❤️.</span>
