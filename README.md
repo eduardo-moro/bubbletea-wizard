@@ -61,18 +61,21 @@ O arquivo questions.txt deve ser manipulado da seguinte forma:
 Perguntas comuns
 *Perguntas com respostas longas
 >Pergunta sobre os arquivos à serem examinados (Só é nescessário uma utilização)
-//os simbolos //, * e > são responsáveis pela diferenciação de cada linha do arquivo, não é nescessário espaçar o simbolo do resto da questão.
+
+// Os simbolos //, * e > são responsáveis pela diferenciação de cada linha do arquivo.
+// não é nescessário "espaçar" os simbolo do resto da questão.
 ```
 
 ## 📷 Prints do projeto:
 
 ![primeira questão, tela de terminal com uma entrada no texto no centro, e uma questão no topo indicando para o usuário que deve escrever suas questões no arquivo questions.txt, com uma listagem de comandos abaixo](images/first_question.png)
 
-![segunda questão, tela de terminal com uma entrada no texto no centro, e uma questão no topo indicando para o usuário que deve testar o comando com --help, com uma listagem de comandos abaixo](images/second_question.png)
+![segunda questão, tela de terminal com uma entrada no texto no centro, e uma questão no topo indicando para o usuário que deve testar o comando com --help e uma listagem de comandos abaixo](images/second_question.png)
 
-![terceira questão, tela de terminal com uma entrada no texto no centro, e uma questão no topo perguntando ao usuário sobre um dos arquivos que a aplicação listou, com uma listagem de comandos abaixo](images/file_question.png)
+![terceira questão, tela de terminal com uma entrada no texto no centro, e uma questão no topo perguntando ao usuário sobre um dos arquivos que a aplicação listou e uma listagem de comandos abaixo](images/file_question.png)
 
-]
+![questão longa, tela de terminal com uma caixa de texto com 5 linhas no centro, e uma questão no topo perguntando ao usuário qual o sentido da vida, com a resposta 42 e Uma listagem de comandos abaixo](images/long_answer.png)
+
 ![tela de terminal com os resultados, tabela com questões à esquerda e suas respostas à direita](images/answer_table.png)
 
 
